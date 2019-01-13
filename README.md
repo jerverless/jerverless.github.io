@@ -16,6 +16,6 @@ jerverless is a serverless runner which will execute anything (binaries, command
 ## How it works!
 
 <div  align="center">
-  <img src="media/jerverless.png"/>
+  <img src="https://github.com/jerverless/jerverless/raw/master/media/jerverless.png"/>
 </div>
 
