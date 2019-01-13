@@ -1,4 +1,4 @@
-## Jerverless Committers
+## Jerverless Committers/PMC
 
 - [Shalitha Suranga](https://github.com/shalithasuranga) - PMC
 - [Kasun Vithanage](https://github.com/kasvith) - PMC
