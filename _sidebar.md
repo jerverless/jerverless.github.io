@@ -8,3 +8,7 @@
 * Contributing
   * [Developer Guide](contributing/developerguide.md)
   * [Committers](contributing/committers.md)
+  
+* Github
+  * [Source ↗](https://github.com/jerverless/jerverless)
+  * [Releases ↗](https://github.com/jerverless/jerverless/releases)
