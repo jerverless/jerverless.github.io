@@ -11,6 +11,6 @@
 
 Submit a pull request or raise 3 helpful issues to join jerverless Team!
 
-## Become a PMC 
+## Become a PMC Member
 
-PMC(Project Management Committee) members usually take decisions about project's future. Active committers will be added to PMC list frequently.
+PMC(Project Management Committee) members usually take decisions about project's future. Active committers will be added to the PMC list frequently by the existing PMC members.
