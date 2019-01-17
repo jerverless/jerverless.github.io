@@ -12,3 +12,4 @@
 * Github
   * [Source ↗](https://github.com/jerverless/jerverless)
   * [Releases ↗](https://github.com/jerverless/jerverless/releases)
+  * [Donate ❤️](https://opencollective.com/jerverless)
